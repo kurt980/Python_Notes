@@ -1,2 +1,1 @@
-# LC_Notes
-Notes and Code from LC practice
+Notes and Codes about Python in general, including Leetcode problems
